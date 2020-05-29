@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "brettm12345 <brettmandler@gmail.com>",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "peerDependencies": {
     "react": "^16.13.1"
   },
