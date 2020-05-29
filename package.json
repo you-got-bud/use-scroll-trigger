@@ -1,0 +1,13 @@
+{
+  "name": "use-scroll-trigger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "brettm12345 <brettmandler@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.35"
+  }
+}
